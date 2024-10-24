@@ -1,3 +1,5 @@
+说明：此项目是AIGC生成，有大量错误代码，仅供参考
+
 # 外卖应用
 
 本项目是一个基于Golang、DDD（领域驱动设计）、GORM、Gin、gRPC和RabbitMQ实现的高并发外卖应用。
